@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![project-screenshot](C:\Users\Meralu\Desktop\Luisfer\Frontend Mentor Projects\Order Summary Component\images\project-screenshot.png)
+![project-screenshot](https://i.ibb.co/d0zdZj2/project-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/luis123doria/Order-summary-component-Frontend-Mentor)
+- Live Site URL: [Github Pages](https://luis123doria.github.io/Order-summary-component-Frontend-Mentor/)
 
 ## My process
 
